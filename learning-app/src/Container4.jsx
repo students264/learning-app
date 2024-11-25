@@ -12,7 +12,7 @@ const Container4 = () => {
         style={{ borderRadius: '10px', boxShadow: '0 4px 15px rgba(0, 0, 0, 0.2)' }} 
       />
     </div>
-    <div className="col-lg-6">
+    <div className="col-lg-6"style={{background:'#22303C'}}>
       <h1 className="fs-3 text-center mb-4 text-white" style={{ fontWeight: '700' }}>
         What will you learn here?
       </h1>
